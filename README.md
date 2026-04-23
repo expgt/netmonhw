@@ -25,14 +25,14 @@
 
 ### Задание 1
 
-[Add dashboard](https://github.com/expgt/netmonhw/blob/main/dashboard1.png)
-[Dashboard](https://github.com/expgt/netmonhw/blob/main/dashboard2.png)
+![Add dashboard](https://github.com/expgt/netmonhw/blob/main/dashboard1.png)
+![Dashboard](https://github.com/expgt/netmonhw/blob/main/dashboard2.png)
 
 ---
 
 ### Задание 2
 
-[Alerts](https://github.com/expgt/netmonhw/blob/main/alerts.png)
-[Warning](https://github.com/expgt/netmonhw/blob/main/alert_warn.png)
-[Alarm](https://github.com/expgt/netmonhw/blob/main/alert_alarm.png)
+![Alerts](https://github.com/expgt/netmonhw/blob/main/alerts.png)
+![Warning](https://github.com/expgt/netmonhw/blob/main/alert_warn.png)
+![Alarm](https://github.com/expgt/netmonhw/blob/main/alert_alarm.png)
 
