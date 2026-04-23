@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "`Название занятия`" - `Фамилия и имя студента`
 
-##  - Розаев А.Ю.
+## Обзор систем ИТ-мониторинга - Розаев А.Ю.
 
 ### Инструкция по выполнению домашнего задания
 
@@ -25,22 +25,14 @@
 
 ### Задание 1
 
-
+[Add dashboard](https://github.com/expgt/netmonhw/blob/main/dashboard1.png)
+[Dashboard](https://github.com/expgt/netmonhw/blob/main/dashboard2.png)
 
 ---
 
 ### Задание 2
 
-
-
----
-
-### Задание 3
-
-
-
----
-
-### Задание 4
-
+[Alerts](https://github.com/expgt/netmonhw/blob/main/alerts.png)
+[Warning](https://github.com/expgt/netmonhw/blob/main/alert_warn.png)
+[Alarm](https://github.com/expgt/netmonhw/blob/main/alert_alarm.png)
 
